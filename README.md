@@ -6,3 +6,5 @@ Engineering: Machine Learning, Dynamical Systems, and Control,” 2nd
 Edition, Cambridge University Press (2022)
 
 The final was a presenation based on something we learned based on classroom material or messing around with the Matlab datasets, tools or programmining(mine was about deepfaking). 
+
+I am keeping this around for archival purposes and also, I figured since I am going to take a course on Digital Image Processing in Fall of 2025 which will also primarily use Matlab, I can keep this here for pracice. 
