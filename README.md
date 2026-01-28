@@ -5,7 +5,8 @@ Steven L. Brunton, and J. Nathan Kutz, “Data-Driven Science and
 Engineering: Machine Learning, Dynamical Systems, and Control,” 2nd 
 Edition, Cambridge University Press (2022)
 
-The final was a presenation based on something we learned based on classroom material or messing around with the Matlab datasets, tools or programmining(mine was about deepfaking). 
+The final was a presentation based on something we learned based on classroom material or messing around with the Matlab datasets, tools or programmining(mine was about deepfaking). 
+
 
 
 
